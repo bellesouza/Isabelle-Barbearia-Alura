@@ -26,6 +26,7 @@ nav  {
     text-decoration:none;
 
 }
+
 .produtos {
 
     width:940px;
@@ -38,4 +39,10 @@ nav  {
     text-align: center; 
     width:30%;
     vertical-align: top;
+}
+
+.produtos h2 {
+    font-size: 30px;
+    font-weight: bold;
+    
 }
